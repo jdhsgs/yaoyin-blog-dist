@@ -2,6 +2,10 @@
 
 # 确保脚本抛出遇到的错误
 set -e
+#推送主文件
+git init
+git add -A
+git commit -m '博客更新'
 
 # 如果发布到 https://<USERNAME>.github.io  填写你刚刚创建的仓库地址
 git push -f https://github.com/jdhsgs/yaoyin-blog-dist master
