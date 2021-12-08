@@ -1,0 +1,11 @@
+#app .navbar .logo {
+    /* display: inline-block;
+    content: "";
+    width: 1.5rem;
+    height: 1.5rem;
+    background: url("../logo.jpg") no-repeat;
+    background-size: 100% 100%;
+    vertical-align: sub;
+    margin-right: 0.5rem; */
+    border-radius: inherit;
+}
