@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "7a3acdda7d74d484",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8144e7e816c2a27",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f3b07f94977eb59",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3d46903ed84b91f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da6c587e9e3787cb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "cdeceeb1ead17238",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f1faf933cd839cbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d963981fcfc48c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f493f6766bc77fb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b8144e7e816c2a27",
+  "lastOpenFiles": [
+    "docker/docker bushu pyppeteer/README.md",
+    "python/new to pyppeteer/README.md",
+    "img process/README.md",
+    "docker/未命名.md",
+    "appleM1/iTerm install rs sz/README.md",
+    "cnn/network/README.md",
+    "appleM1/Could not resolve HEAD to a revision/README.md",
+    "cnn/Embedding/README.md",
+    "python/unitest/README.md",
+    "python/python qiepian/README.md"
+  ]
+}

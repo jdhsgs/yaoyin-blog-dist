@@ -19,7 +19,7 @@ module.exports = {
     theme: "reco",
     themeConfig: {
         nav,
-        sidebar,
+        sidebar: 'auto',
         logo: "/logo.png",
         search: true,
         searchMaxSuggestions: 10,

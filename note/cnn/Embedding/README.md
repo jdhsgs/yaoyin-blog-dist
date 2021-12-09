@@ -1,7 +1,7 @@
 ---
 title: Embedding
 date: 2021-12-06
-sidebar: 'auto'
+sticky: 1
 tags:
  - cnn
 categories:

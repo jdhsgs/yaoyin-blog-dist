@@ -1,7 +1,7 @@
 ---
 title: 语义分割cnn
 date: 2021-12-08
-sidebar: 'auto'
+sticky: 2
 tags:
  - cnn
 categories:

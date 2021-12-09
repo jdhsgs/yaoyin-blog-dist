@@ -7,6 +7,7 @@ categories:
  - 算法
 ---
 # 创建链表
+```
 `class Node{
     int val;
     Node next;
@@ -28,6 +29,7 @@ categories:
     初始化参数
     }
 }`
+```
 # 注意点
 1.查找插入删除的位置都需要判断
 # 反转链表
